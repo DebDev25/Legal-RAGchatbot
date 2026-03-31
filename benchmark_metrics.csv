@@ -1,0 +1,25 @@
+Question,Retrieval_Time_sec,Generation_Time_sec,Avg_L2_Vector_Distance,Context_Length_chars,Generated_Answer
+What is the punishment for murder under the penal code?,0.752,73.27,0.744,21122,"Yes. The punishment for murder under the Indian Penal Code (Penal Code) includes:
+
+- Death penalty
+- Imprisonment for life
+- Fine
+
+Specifically, section 302 of the Penal Code states:
+""The person who commits murder shall be punished with death, or 196. [imprisonment for life], and shall also be liable to fine.""
+
+Additionally, section 304 allows for imprisonment for life or a term of 10 years, with or without fines, for culpable homicide not amounting to murder."
+What are the exceptions to culpable homicide amounting to murder?,0.009,54.39,0.751,18218,"Yes. The document provides several exceptions to culpable homicide amounting to murder:
+
+1. Exception 3: Culpable homicide is not murder if the offender, being a public servant or aiding a public servant acting for the advancement of public justice, exceeds the powers given to him by law, and causes death by doing an act which he, in good faith, believes to be lawful and necessary for the due discharge of his duty as such public servant and without ill-will towards the person whose death is caused.
+
+2. Exception 4: Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel and without the offender having taken undue advantage or acted in a cruel or unusual manner.
+
+3. Exception 5: Culpable homicide is not murder when the person whose death is caused, being above the age of eighteen years, suffers death or takes the risk of death with his own consent.
+
+These exceptions provide specific scenarios where culpable homicide is not considered murder, based on various conditions related to the offender's role, actions, and the circumstances surrounding the incident."
+"If a police officer arrests a person without a warrant, what rights do they have?",0.02,51.75,1.026,19588,"**No.**
+
+Based on the document context, a police officer arresting a person without a warrant does not have the same rights as someone who has been legally arrested. Specifically, the document mentions that ""If a person runs away to avoid an arrest, his act does not amount to resistance or obstruction."" Additionally, the document notes that ""Every person can require by right that the Court ordering his arrest shall observe the law,"" indicating that individuals have the right to ensure that the process of arrest complies with legal standards."
+Can a confession made directly to a police officer be used as definitive evidence in court?,0.015,31.23,0.786,16353,No.
+What specifies the penalty for kidnapping a minor for ransom under the penal code?,0.01,50.27,0.723,17622,"Yes. The penalty for kidnapping a minor for ransom under the penal code is death, or imprisonment for life, and a fine."

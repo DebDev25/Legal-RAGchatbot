@@ -1,0 +1,15 @@
+langchain
+langchain-chroma
+langchain-google-genai
+langchain-huggingface
+PyMuPDF
+streamlit
+sentence-transformers
+tiktoken
+python-dotenv
+langchain-text-splitters
+torch
+transformers
+accelerate
+torchvision
+pandas
